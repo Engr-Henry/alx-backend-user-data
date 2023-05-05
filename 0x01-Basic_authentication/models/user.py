@@ -1,4 +1,4 @@
-<F11>#!/usr/bin/env python3
+#!/usr/bin/env python3
 """ User module
 """
 import hashlib
